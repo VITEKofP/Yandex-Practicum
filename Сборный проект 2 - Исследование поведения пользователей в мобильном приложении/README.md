@@ -28,4 +28,4 @@
 <br>
 *plotly* 
 
-### Ссылка на проект для показа интерактивных графиков (plotly): https://nbviewer.org/github/VITEKofP/genera_project_2_user_analisys_in_the_mobile_app/blob/main/general_project_2_user_analysis_in_the_mobile_app.ipynb
+**Ссылка на проект для показа интерактивных графиков (plotly):** https://nbviewer.org/github/VITEKofP/genera_project_2_user_analisys_in_the_mobile_app/blob/main/general_project_2_user_analysis_in_the_mobile_app.ipynb
