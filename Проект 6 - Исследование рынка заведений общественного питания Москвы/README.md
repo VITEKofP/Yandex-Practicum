@@ -45,4 +45,7 @@
 *folium*
 
 **Ссылка на презентацию к проекту:**  https://disk.yandex.ru/i/RrUPWyg3fvULMA
-**Ссылка на проект для показа интерактивных графиков:**
+<br>
+
+**Ссылка на проект для показа интерактивных графиков:** 
+https://nbviewer.org/github/VITEKofP/Yandex-Practicum/blob/main/Проект%206%20-%20Исследование%20рынка%20заведений%20общественного%20питания%20Москвы/project_6_analysis_of_public_catering_establishments_in_moscow.ipynb
